@@ -1,3 +1,111 @@
+# 🌙 LunarX Mod Menu for Gorilla Tag
+
+LunarX is a powerful and modular **Gorilla Tag mod menu**, developed by **weirdss3 (aka Cat)**. Designed for use in **private modded lobbies**, LunarX offers a clean, multi-category UI with tools ranging from movement enhancements to visual overhauls. Built using Unity, Photon, and EasyInputs.
+
+![LunarX Banner](assets/banner.png)
+
+---
+
+## 📦 Categories & Features
+
+### ⚙️ Menu Settings
+- Theme switching
+- Page navigation
+- EasyInputs button remapping
+
+### 🦴 Rig Mods
+- Long arms
+- Hand offset adjuster
+- Custom rig poses (experimental)
+
+### 💥 Overpowered Mods
+- No-clip
+- Flight mode
+- Time scale manipulation
+- Invisibility / ghost mod
+
+### 🏃 Movement Mods
+- Sticky hands
+- Speed boost
+- Platform spawner
+- Long jump / air jump
+
+### 🌐 Room Mods
+- Create or join custom Photon rooms
+- Dynamic room name change
+- Ghost join (private only)
+
+### 👁 Visual Mods
+- Player outlines (Chams)
+- ESP through walls
+- Camera zoom / FOV control
+- Visual shaders (Night vision, thermal, etc.)
+
+---
+
+## 🛠 Requirements
+
+- PCVR Setup (Quest Link, Rift S, etc.)
+- Gorilla Tag (Steam version)
+- BepInEx (6.0+)
+- EasyInputs (pre-integrated in the menu)
+- .NET Runtime compatible with Gorilla Tag
+
+---
+
+## 🚀 Installation
+
+1. Download the latest `LunarX.dll` from the [Releases](#).
+2. Drag and drop it into:  
+   `Gorilla Tag/BepInEx/plugins/`
+3. Launch the game.
+4. Press your configured EasyInputs bind (e.g., left thumbstick) to open the menu.
+
+---
+
+## 🎬 Screenshots & GIFs
+
+### Menu UI
+![Menu UI](assets/menu-ui.png)
+
+### Platform & Speed Mods
+![Platform Spawn](assets/platform.gif)
+
+### Visual Mods Example
+![Chams Example](assets/chams.png)
+
+> More previews available in the `assets/` folder.
+
+---
+
+## ⚠️ Disclaimer
+
+LunarX is meant for **educational and private use only**.  
+Using mods in public lobbies may result in bans or account restrictions.  
+The developer is not responsible for misuse, bans, or data loss.
+
+---
+
+## 👤 Credits
+
+- **Lead Developer:** weirdss3 (Cat)
+- **Powered By:** Unity, Photon PUN2, EasyInputs, BepInEx
+- **Special Thanks:** Gorilla Tag modding community
+
+---
+
+## 📬 Contact & Support
+
+- GitHub Issues (coming soon)
+- Discord: *[Add Discord link here if available]*
+- Email: *[Optional, for bug reports or collaborations]*
+
+---
+
+## 📄 License
+
+LunarX is released under the **MIT License**.  
+See [LICENSE](LICENSE) for more information.
 # 🌙🐾 LunarX Mod Menu — weirdss3's Cosmic Cat Chaos 🐒🚀
 
 > *"When the moon hits your Gorilla Tag like a big pizza pie... that's LunarX!"*  

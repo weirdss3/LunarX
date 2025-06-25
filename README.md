@@ -2,7 +2,7 @@
 
 LunarX is a powerful and modular **Gorilla Tag mod menu**, developed by **weirdss3 (aka Cat)**. Designed for use in **private modded lobbies**, LunarX offers a clean, multi-category UI with tools ranging from movement enhancements to visual overhauls. Built using Unity, Photon, and EasyInputs.
 
-![LunarX Banner](assets/banners.png)
+![LunarX Banner]([assets/banners.png](https://i.imgur.com/u2cN5he_d.webp?maxwidth=760&fidelity=grand))
 
 ---
 
